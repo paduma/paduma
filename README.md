@@ -16,7 +16,7 @@ Frontend engineer focused on AIGC product interactions, ToB SaaS engineering, an
 | **AIGC Playground**        | 13 AI product interaction demos — streaming chat, voice, agent orchestration, digital human, and more. Pure frontend, zero API keys. | [Live Demo](https://paduma.github.io/aigc-playground/) · [Repo](https://github.com/paduma/aigc-playground) |
 | **Demo Playground**        | 10 enterprise-grade ToB frontend demos — approval designer, RBAC, configurable table, org tree, file manager, and more.              | [Repo](https://github.com/paduma/demo-playground)                                                          |
 | **Module Federation Demo** | Micro-frontend with Webpack 5 Module Federation — React 18 + React 16 + Vue 3 cross-framework integration.                           | [Repo](https://github.com/paduma/module-federation-demo)                                                   |
-| **AI Pose Detection**      | Full-stack pose analysis with MediaPipe + FFmpeg.wasm — real-time detection, video editing, exercise scoring.                        | [Repo](https://github.com/paduma/ai-pose-detection)                                                        |
+| **AI Pose Detection**      | Full-stack pose analysis with MediaPipe + FFmpeg.wasm — real-time detection, video editing, exercise scoring.                        | [Live Demo](https://ai-pose-detection-psi.vercel.app/dashboard) · [Repo](https://github.com/paduma/ai-pose-detection)                                                        |
 
 #### Tech Stack
 
@@ -24,7 +24,7 @@ React · Vue · TypeScript · Next.js · Node.js · Webpack · Vite · Tailwind 
 
 #### Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/paduma) · [![DEV.to](https://img.shields.io/badge/DEV.to-black?style=flat&logo=devdotto)](https://dev.to/paduma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/paduma) 
 
 ---
 
@@ -48,7 +48,7 @@ React · Vue · TypeScript · Next.js · Node.js · Webpack · Vite · Tailwind 
 | **AIGC Playground**        | 13 个 AI 产品交互 demo — 流式对话、语音、Agent 编排、数字人等。纯前端，无需 API Key。  | [在线体验](https://paduma.github.io/aigc-playground/) · [仓库](https://github.com/paduma/aigc-playground) |
 | **Demo Playground**        | 10 个企业级 ToB 前端 demo — 审批设计器、权限管理、可配置表格、组织架构、文件管理器等。 | [仓库](https://github.com/paduma/demo-playground)                                                         |
 | **Module Federation Demo** | Webpack 5 Module Federation 微前端 — React 18 + React 16 + Vue 3 跨框架集成。          | [仓库](https://github.com/paduma/module-federation-demo)                                                  |
-| **AI Pose Detection**      | 全栈姿态分析，MediaPipe + FFmpeg.wasm — 实时检测、视频编辑、运动评分。                 | [仓库](https://github.com/paduma/ai-pose-detection)                                                       |
+| **AI Pose Detection**      | 全栈姿态分析，MediaPipe + FFmpeg.wasm — 实时检测、视频编辑、运动评分。                 |[在线体验](https://ai-pose-detection-psi.vercel.app/dashboard) · [仓库](https://github.com/paduma/ai-pose-detection)                                                       |
 
 #### 技术栈
 
